@@ -2,10 +2,4 @@
 Notes on AI-based 6-axis arm control
 
 ## Index
-- Environment
-    - Middleware
-        - ROS1
-        - ROS2
-    - Simulator
-        - Gazebo
-        - RoboDK
+- [Environment](./Environment.md)

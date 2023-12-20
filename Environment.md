@@ -19,3 +19,5 @@ Notes on development environment
     - [Docs](https://gazebosim.org/docs)
 - RoboDK
     - [Docs](https://robodk.com/doc/en/Basic-Guide.html)
+- Webots
+    - [Docs](https://cyberbotics.com/doc/guide/index)
