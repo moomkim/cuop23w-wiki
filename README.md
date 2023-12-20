@@ -9,7 +9,3 @@ Notes on AI-based 6-axis arm control
     - Simulator
         - Gazebo
         - RoboDK
-- Robot control
-    - PID
-    - Inverse dynamics control
-    - Reinforcement learning
